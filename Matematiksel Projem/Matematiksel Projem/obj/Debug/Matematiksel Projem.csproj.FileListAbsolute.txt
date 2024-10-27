@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.exe.config
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.exe
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.pdb
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.exe
+C:\Users\Lenovo\Desktop\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.pdb
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.exe.config
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.exe
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.pdb
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.exe
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\bin\Debug\Matematiksel Projem.pdb
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\Matematiksel Projem\Matematiksel Projem\obj\Debug\Matematiksel Projem.csprojResolveAssemblyReference.cache
